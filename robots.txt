@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /php/
+Sitemap: https://sauna.sk-kontrakt.ru/sitemap.xml
